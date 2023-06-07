@@ -1,0 +1,4 @@
+
+The static website is hosted on github 
+Link:
+https://github.com/TrevorAugustine23/Portfolio_website/tree/main
